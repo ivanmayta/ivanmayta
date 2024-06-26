@@ -4,18 +4,17 @@
 </em></p>
 
 ```javascript
-const ivan = {
-  code: [Javascript, HTML, CSS, Tailwind, Kotlin, Python],
-  tools: [React, Node, Express, MongoDB, Django, Android Studio],
-  skills: {
-    inquirer: "Always exploring new technologies.",
-    thinker: "Analyzes problems deeply and creates effective solutions.",
-    communicator: "Clear in explaining technical concepts.",
-    principled: "Adheres to best practices in coding.",
-    openMinded: "Open to new ideas and feedback.",
-    riskTaker: "Takes on challenges with new technologies.",
-    reflective: "Learns from personal projects and coding exercises."
-  }
+const coder={
+    name:'Ivan Mayta',
+    skills:
+      ['Git', 'HTML', 'CSS','Tailwind', 'React',  'Javascript', 'Node',
+      'Express', 'MongoDB', 'Django', 'Kotlin', 'Android Studio' ],
+    softSkills:
+      ['Communication', 'Collaboration', 'Creative Problem Solving',
+      'Critical thinking', 'Time management', 'Team Leadership'],
+    hardWorker:true,
+    quickLearner:true,
+    problemSolver:true,
 }
 ```
 <!--
