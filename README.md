@@ -1,5 +1,5 @@
 ## Hi, I'm Ivan Mayta 🔭
-<img src="https://github.com/ivanmayta/ivanmayta/assets/94296898/2c626362-2b38-446f-83af-67b795330a59" width="25%" align="right" />
+<img src="https://github.com/ivanmayta/ivanmayta/assets/94296898/c3298d69-1780-4771-9b7a-7838cd75cc55" width="25%" align="right" />
 <p><em>Software Enginner Student</br>
 </em></p>
 
