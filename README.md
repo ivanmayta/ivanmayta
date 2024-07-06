@@ -1,4 +1,4 @@
-## Hi, I'm Ivan Mayta 🔭
+## Hi, I'm Ivan Mayta 💻
 <p><em>Software Enginner Student</br>
 <img src="https://github.com/ivanmayta/ivanmayta/assets/94296898/c3298d69-1780-4771-9b7a-7838cd75cc55" width="25%" align="right" />
 
