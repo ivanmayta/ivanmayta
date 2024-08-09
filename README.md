@@ -29,8 +29,10 @@ const coder={
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,tailwind,astro" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,nextjs,mysql,flask,django" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,nextjs,mysql,django" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,vercel,vite" /><br>
     <img src="https://skillicons.dev/icons?i=androidstudio,kotlin" /><br>
+    <img src="https://skillicons.dev/icons?i=strapi,kotlin" /><br>
+
 
 </div>
