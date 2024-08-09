@@ -15,8 +15,8 @@
 const coder={
     name:'Ivan Mayta',
     skills:
-      ['Git', 'HTML', 'CSS','Tailwind', 'React',  'Javascript', 'Node',
-      'Express', 'MongoDB', 'Django', 'Kotlin', 'Android Studio' ],
+      ['Git', 'HTML', 'CSS','Tailwind','Bootstrap', 'React',  'Javascript',
+         'Node', 'Express','SQL','Python', 'Django', 'Kotlin', 'Android Studio' ],
     softSkills:
       ['Communication', 'Collaboration', 'Creative Problem Solving',
       'Critical thinking', 'Time management', 'Team Leadership'],
@@ -32,7 +32,6 @@ const coder={
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,nextjs,mysql,django" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,vercel,vite" /><br>
     <img src="https://skillicons.dev/icons?i=androidstudio,kotlin" /><br>
-    <img src="https://skillicons.dev/icons?i=strapi,kotlin" /><br>
 
 
 </div>
