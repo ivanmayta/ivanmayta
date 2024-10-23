@@ -1,15 +1,7 @@
-<p><em>Software Enginner Student</br>
-    <!--
-    ## Hello 👋 It's [Ivan Mayta!](https://iverse.com)💻
-    -->
-    <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ivan+Mayta!%F0%9F%92%BB;" />
-</h1>
 
-<img src="https://github.com/ivanmayta/ivanmayta/assets/94296898/c3298d69-1780-4771-9b7a-7838cd75cc55" width="25%" align="right" />
 
-    
-</em></p>
+## <img src="https://readme-typing-svg.herokuapp.com/?color=F7F7F7&font=MonoLisa&size=18&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Ivan+Mayta!%F0%9F%92%BB;" />
+
 
 ```javascript
 const coder={
@@ -25,9 +17,11 @@ const coder={
     problemSolver:true,
 }
 ```
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+## ⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
+
+
+<div>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,tailwind,astro" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,nextjs,mysql,django" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,vercel,vite" /><br>
