@@ -1,6 +1,6 @@
 ## <img src="https://readme-typing-svg.herokuapp.com/?color=F7F7F7&font=MonoLisa&size=18&vCenter=true&width=500&height=16&duration=3000&lines=Hi+There!+👋;+I'm+Ivan+Mayta!%F0%9F%92%BB;" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanmayta&layout=compact&theme=material-palenight&hide_border=true" />
+
 <em>I'm a passionate software developer always eager to learn and solve problems efficiently.👨‍💻</em>
 
 <pre >
