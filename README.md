@@ -1,23 +1,23 @@
-
-
 ## <img src="https://readme-typing-svg.herokuapp.com/?color=F7F7F7&font=MonoLisa&size=18&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Ivan+Mayta!%F0%9F%92%BB;" />
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanmayta&layout=compact&theme=material-palenight&hide_border=true" />
 
-```javascript
-const coder={
-    name:'Ivan Mayta',
-    skills:
-      ['Git', 'HTML', 'CSS','Tailwind','Bootstrap', 'React',  'Javascript',
-         'Node', 'Express','SQL','Python', 'Django', 'Kotlin', 'Android Studio' ],
-    softSkills:
-      ['Communication', 'Collaboration', 'Creative Problem Solving',
-      'Critical thinking', 'Time management', 'Team Leadership'],
-    hardWorker:true,
-    quickLearner:true,
-    problemSolver:true,
-}
-```
-### ⚒️ Languages-Frameworks-Tools ⚒️</h2>
+### I'm a passionate software developer always eager to learn and solve problems efficiently.👨‍💻
+
+<pre align="right">
+<code>
+links: {
+    🌍 website: '<a href="https://mi-website.com" target="_blank"> Website</a>',
+    📄 CV: '<a href="https://mi-cv.com" target="_blank">CV</a>',
+    💼 linkedIn: '<a href="https://linkedin.com/in/ivanmayta" target="_blank">LinkedIn</a>',
+    💻 github: '<a href="https://github.com/ivanmayta" target="_blank">GitHub</a>',
+    ✉️ email: '<a href="mailto:ivan.mayta@gmail.com">Email</a>'
+};
+</code>
+</pre>
+
+
+### ⚒️ Languages-Frameworks-Tools ⚒️
 <br/>
 <div align="center">
     <img src="https://img.shields.io/badge/-React-000?&logo=React" alt="React"/>&nbsp;
