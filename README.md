@@ -6,11 +6,11 @@
 <pre >
 <code>
 links: {
-    🌍 website: '<a href="https://mi-website.com" target="_blank">iverse.vercel.app</a>',
+    🌍 website: '<a href="https://iverse.vercel.app" target="_blank">iverse.vercel.app</a>',
     📄 CV: '<a href="https://mayta.me" target="_blank">mayta.me</a>',
     💼 linkedIn: '<a href="https://linkedin.com/in/ivanmayta" target="_blank">linkedin.com/in/iverse/</a>',
-    💻 github: '<a href="https://github.com/ivanmayta" target="_blank">gitHub.com/ivanmayta</a>',
-    ✉️ email: '<a href="mailto:ivan.mayta@gmail.com">Email</a>'
+    💻 github: '<a href="https://github.com/ivanmayta" target="_blank">github.com/ivanmayta</a>',
+    ✉️ email: '<a href="mailto:ivan.rodrigo.dev@gmail.com">ivan.rodrigo.dev@gmail.com</a>'
 };
 </code>
 </pre>
