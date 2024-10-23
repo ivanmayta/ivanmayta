@@ -1,16 +1,15 @@
-## <img src="https://readme-typing-svg.herokuapp.com/?color=F7F7F7&font=MonoLisa&size=18&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Ivan+Mayta!%F0%9F%92%BB;" />
+## <img src="https://readme-typing-svg.herokuapp.com/?color=F7F7F7&font=MonoLisa&size=18&vCenter=true&width=500&height=16&duration=3000&lines=Hi+There!+👋;+I'm+Ivan+Mayta!%F0%9F%92%BB;" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanmayta&layout=compact&theme=material-palenight&hide_border=true" />
+<em>I'm a passionate software developer always eager to learn and solve problems efficiently.👨‍💻</em>
 
-### I'm a passionate software developer always eager to learn and solve problems efficiently.👨‍💻
-
-<pre align="right">
+<pre >
 <code>
 links: {
-    🌍 website: '<a href="https://mi-website.com" target="_blank"> Website</a>',
-    📄 CV: '<a href="https://mi-cv.com" target="_blank">CV</a>',
-    💼 linkedIn: '<a href="https://linkedin.com/in/ivanmayta" target="_blank">LinkedIn</a>',
-    💻 github: '<a href="https://github.com/ivanmayta" target="_blank">GitHub</a>',
+    🌍 website: '<a href="https://mi-website.com" target="_blank">iverse.vercel.app</a>',
+    📄 CV: '<a href="https://mayta.me" target="_blank">mayta.me</a>',
+    💼 linkedIn: '<a href="https://linkedin.com/in/ivanmayta" target="_blank">linkedin.com/in/iverse/</a>',
+    💻 github: '<a href="https://github.com/ivanmayta" target="_blank">gitHub.com/ivanmayta</a>',
     ✉️ email: '<a href="mailto:ivan.mayta@gmail.com">Email</a>'
 };
 </code>
