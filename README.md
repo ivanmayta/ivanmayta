@@ -1,7 +1,7 @@
 ## <img src="https://readme-typing-svg.herokuapp.com/?color=F7F7F7&font=MonoLisa&size=18&vCenter=true&width=500&height=16&duration=3000&lines=Hi+There!+👋;+I'm+Ivan+Mayta!%F0%9F%92%BB;" />
 
 
-<em>I'm a passionate software developer always eager to learn and solve problems efficiently.👨‍💻</em>
+<p>I'm a passionate software developer always eager to learn and solve problems efficiently.👨‍💻</p>
 
 <pre >
 <code>
