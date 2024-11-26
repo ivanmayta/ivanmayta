@@ -1,7 +1,7 @@
 ## <img src="https://readme-typing-svg.herokuapp.com/?color=F7F7F7&font=MonoLisa&size=18&vCenter=true&width=500&height=16&duration=3000&lines=Hi+There!+👋;+I'm+Ivan+Mayta!%F0%9F%92%BB;" />
 
 
-<p>Software developer skilled in web, mobile, and business intelligence technologies👨‍💻</p>
+<p>Software Developer 👨‍💻 | Focused on web, mobile, and BI technologies.</p>
 
 <pre >
 <code>
