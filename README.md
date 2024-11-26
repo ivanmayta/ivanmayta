@@ -1,7 +1,7 @@
 ## <img src="https://readme-typing-svg.herokuapp.com/?color=F7F7F7&font=MonoLisa&size=18&vCenter=true&width=500&height=16&duration=3000&lines=Hi+There!+👋;+I'm+Ivan+Mayta!%F0%9F%92%BB;" />
 
 
-<p>Software Developer 👨‍💻 | Experienced in web, mobile, and business intelligence projects.</p>
+<p>Software Developer 👨‍💻 | Experienced in web, mobile, and business intelligence projects.⌨️</p>
 
 <pre >
 <code>
@@ -15,7 +15,7 @@ links: {
 </code>
 </pre>
 
-## 🔸 Languages-Frameworks-Tools 
+## 🖱 Languages-Frameworks-Tools 
 <br/>
 <div align="center">
     <img src="https://img.shields.io/badge/-React-000?&logo=React" alt="React"/>&nbsp;
