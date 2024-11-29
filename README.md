@@ -51,6 +51,10 @@ links: {
     <img src="https://img.shields.io/badge/-Android_Studio-000?&logo=androidstudio&logoColor=3DDC84" alt="Android Studio"/>&nbsp;
     <img src="https://img.shields.io/badge/-Kotlin-000?&logo=kotlin&logoColor=7F52FF" alt="Kotlin"/>&nbsp;
 </div>
+<div align="center">
+
+ <img src="https://img.shields.io/badge/-Strapi-000?&logo=strapi&logoColor=white%22%20alt=%22Strapi" alt="GitHub"/>&nbsp;
+</div>
 
 
 <!-- 
