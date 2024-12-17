@@ -6,7 +6,7 @@
 <pre >
 <code>
 links: {
-    🌍 website: '<a href="https://iverse.dev" target="_blank">iverse.vercel.app</a>',
+    🌍 website: '<a href="https://iverse.dev" target="_blank">iverse.dev</a>',
     📄 CV: '<a href="https://mayta.me" target="_blank">mayta.me</a>',
     💼 linkedIn: '<a href="https://linkedin.com/in/ivanmayta" target="_blank">linkedin.com/in/iverse/</a>',
     💻 github: '<a href="https://github.com/ivanmayta" target="_blank">github.com/ivanmayta</a>',
