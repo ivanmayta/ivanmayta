@@ -5,10 +5,9 @@
 
 <div align="center">
     <samp>
-    <a href="https://iverse.dev" target="_blank">iverse.dev</a> •
-    <a href="https://mayta.me" target="_blank">mayta.me</a> •
-    <a href="https://linkedin.com/in/ivanmayta" target="_blank">linkedin</a> •
-    <a href="mailto:ivan.rodrigo.dev@gmail.com">ivan.rodrigo.dev@gmail.com</a> •
+    webside: <a href="https://iverse.dev" target="_blank">iverse.dev</a> •
+    cv: <a href="https://mayta.me" target="_blank">mayta.me</a> •
+    email: <a href="mailto:ivan.rodrigo.dev@gmail.com">ivan.rodrigo.dev@gmail.com</a> •
     <samp/>
 </div>
 
