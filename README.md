@@ -1,5 +1,4 @@
-## <img src="https://readme-typing-svg.herokuapp.com/?color=F7F7F7&font=MonoLisa&size=18&vCenter=true&width=500&height=16&duration=3000&lines=Hi+There!+👋;+I'm+Ivan!%F0%9F%92%BB;" />
-
+## Hi, 👋 I'm [Ivan!](https://gonzalopozzo.com)
 
 <p>Software Developer 👨‍💻 | Experienced in web, mobile, and business intelligence projects.🖱</p>
 
