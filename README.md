@@ -11,8 +11,7 @@
     <samp/>
 </div>
 
-
-### Languages-Frameworks-Tools 
+## Languages-Frameworks-Tools 
 <br/>
 <div align="center">
     <img src="https://img.shields.io/badge/-Next.js-000?&logo=next.js" alt="Next.js"/>&nbsp;
@@ -49,7 +48,6 @@
     <img src="https://img.shields.io/badge/-Kotlin-000?&logo=kotlin&logoColor=7F52FF" alt="Kotlin"/>&nbsp;
 </div>
 <div align="center">
-
  <img src="https://img.shields.io/badge/-Strapi-000?&logo=strapi&logoColor=white%22%20alt=%22Strapi" alt="GitHub"/>&nbsp;
 </div>
 
