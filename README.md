@@ -16,27 +16,27 @@
 ### ⌨Languages-Frameworks-Tools 
 <br/>
 <div align="center">
+    <img src="https://img.shields.io/badge/-Next.js-000?&logo=next.js" alt="Next.js"/>&nbsp;
+    <img src="https://img.shields.io/badge/-Astro-000?&logo=Astro" alt="Astro"/>&nbsp;
     <img src="https://img.shields.io/badge/-React-000?&logo=React" alt="React"/>&nbsp;
     <img src="https://img.shields.io/badge/-HTML-000?&logo=html5" alt="HTML"/>&nbsp;
     <img src="https://img.shields.io/badge/-CSS-000?&logo=CSS3&logoColor=1572B6" alt="CSS"/>&nbsp;
     <img src="https://img.shields.io/badge/-Tailwind-000?&logo=TailwindCss" alt="Tailwind"/>&nbsp;
     <img src="https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap" alt="Bootstrap"/>&nbsp;
-    <img src="https://img.shields.io/badge/-Astro-000?&logo=Astro" alt="Astro"/>&nbsp;
 </div>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/-Node.js-000?&logo=node.js" alt="Node.js"/>&nbsp;
-    <img src="https://img.shields.io/badge/-JavaScript-000?&logo=javascript" alt="JavaScript"/>&nbsp;
     <img src="https://img.shields.io/badge/-TypeScript-000?&logo=typescript" alt="TypeScript"/>&nbsp;
+    <img src="https://img.shields.io/badge/-JavaScript-000?&logo=javascript" alt="JavaScript"/>&nbsp;
+    <img src="https://img.shields.io/badge/-Node.js-000?&logo=node.js" alt="Node.js"/>&nbsp;
     <img src="https://img.shields.io/badge/-Express-000?&logo=express" alt="Express"/>&nbsp;
-    <img src="https://img.shields.io/badge/-Next.js-000?&logo=next.js" alt="Next.js"/>&nbsp;
     <img src="https://img.shields.io/badge/-Python-000?&logo=python" alt="Python"/>&nbsp;
     <img src="https://img.shields.io/badge/-Django-000?&logo=django" alt="Django"/>&nbsp;
 </div>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/-MySQL-000?&logo=mysql&logoColor=white" alt="MySQL"/>&nbsp;
     <img src="https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql&logoColor=white" alt="PostgreSQL"/>&nbsp;
+    <img src="https://img.shields.io/badge/-MySQL-000?&logo=mysql&logoColor=white" alt="MySQL"/>&nbsp;
     <img src="https://img.shields.io/badge/-Firebase-000?&logo=firebase&logoColor=FFCA28" alt="Firebase"/>&nbsp;
 </div>
 
