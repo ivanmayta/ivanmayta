@@ -3,17 +3,15 @@
 
 <p>Software Developer 👨‍💻 | Experienced in web, mobile, and business intelligence projects.🖱</p>
 
-<pre >
-<code>
-links: {
-    🌍 website: '<a href="https://iverse.dev" target="_blank">iverse.dev</a>',
-    📄 CV: '<a href="https://mayta.me" target="_blank">mayta.me</a>',
-    💼 linkedIn: '<a href="https://linkedin.com/in/ivanmayta" target="_blank">linkedin.com/in/iverse/</a>',
-    💻 github: '<a href="https://github.com/ivanmayta" target="_blank">github.com/ivanmayta</a>',
-    ✉️ email: '<a href="mailto:ivan.rodrigo.dev@gmail.com">ivan.rodrigo.dev@gmail.com</a>'
-};
-</code>
-</pre>
+<div align="center">
+    <samp>
+    <a href="https://iverse.dev" target="_blank">iverse.dev</a> •
+    <a href="https://mayta.me" target="_blank">mayta.me</a> •
+    <a href="https://linkedin.com/in/ivanmayta" target="_blank">linkedin</a> •
+    <a href="mailto:ivan.rodrigo.dev@gmail.com">ivan.rodrigo.dev@gmail.com</a> •
+    <samp/>
+</div>
+
 
 ## ⌨Languages-Frameworks-Tools 
 <br/>
