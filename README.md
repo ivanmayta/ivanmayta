@@ -13,14 +13,14 @@
 </div>
 
 
-## ⌨Languages-Frameworks-Tools 
+#### ⌨Languages-Frameworks-Tools 
 <br/>
 <div align="center">
     <img src="https://img.shields.io/badge/-React-000?&logo=React" alt="React"/>&nbsp;
-    <img src="https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap" alt="Bootstrap"/>&nbsp;
     <img src="https://img.shields.io/badge/-HTML-000?&logo=html5" alt="HTML"/>&nbsp;
     <img src="https://img.shields.io/badge/-CSS-000?&logo=CSS3&logoColor=1572B6" alt="CSS"/>&nbsp;
     <img src="https://img.shields.io/badge/-Tailwind-000?&logo=TailwindCss" alt="Tailwind"/>&nbsp;
+    <img src="https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap" alt="Bootstrap"/>&nbsp;
     <img src="https://img.shields.io/badge/-Astro-000?&logo=Astro" alt="Astro"/>&nbsp;
 </div>
 
