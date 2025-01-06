@@ -12,7 +12,7 @@
 </div>
 
 
-### ⌨Languages-Frameworks-Tools 
+### Languages-Frameworks-Tools 
 <br/>
 <div align="center">
     <img src="https://img.shields.io/badge/-Next.js-000?&logo=next.js" alt="Next.js"/>&nbsp;
