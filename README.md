@@ -1,6 +1,6 @@
 ## Hi, 👋 I'm [Ivan!](https://iverse.dev)
 
-<p>Software Developer 👨‍💻 | Experienced in web, mobile, and business intelligence projects.🖱</p>
+<p>Software Developer 👨‍💻 | Focused in web, mobile, and business intelligence projects.🖱</p>
 
 <div align="center">
     <samp>
