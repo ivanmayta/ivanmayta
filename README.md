@@ -10,7 +10,7 @@
     <samp/>
 </div>
 
-## Languages-Frameworks-Tools 
+## Tools 
 <br/>
 <div align="center">
     <img src="https://img.shields.io/badge/-Astro-000?&logo=Astro" alt="Astro"/>&nbsp;
