@@ -9,8 +9,6 @@
     email: <a href="mailto:ivan.rodrigo.dev@gmail.com">ivan.rodrigo.dev@gmail.com</a> •
     <samp/>
 </div>
-
-## Tools 
 <br/>
 <div align="center">
     <img src="https://img.shields.io/badge/-Astro-000?&logo=Astro" alt="Astro"/>&nbsp;
