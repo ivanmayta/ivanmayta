@@ -1,6 +1,6 @@
 
 <p align="center">Software Developer 👨‍💻 | Focused in web, mobile, and business intelligence projects.🖱</p>
-
+<p align="center">Specialized in the <strong>FRONTEND</strong>, supported by oracle next education</p>
 <div align="center">
     <samp>
     webside: <a href="https://iverse.dev" target="_blank">iverse.dev</a> •
