@@ -47,6 +47,7 @@
 <div align="center">
  <img src="https://img.shields.io/badge/-Strapi-000?&logo=strapi&logoColor=white%22%20alt=%22Strapi" alt="GitHub"/>&nbsp;
     <img src="https://img.shields.io/badge/-Unity-000?&logo=Unity&logoColor=white%22%20alt=%22Unity" alt="GitHub"/>&nbsp;
+       <img src="https://img.shields.io/badge/-Clerk-000?&logo=Clerk&logoColor=white%22%20alt=%22Clerk" alt="Clerk"/>&nbsp;
 </div>
 
 
