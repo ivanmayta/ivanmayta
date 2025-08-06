@@ -4,7 +4,7 @@
 <div align="center">
     <samp>
     webside: <a href="https://iverse.dev" target="_blank">iverse.dev</a> •
-    cv: <a href="https://mayta.me" target="_blank">mayta.me</a> •
+    cv: <a href="https://cv.iverse.dev" target="_blank">cv.iverse.dev</a> •
     email: <a href="mailto:ivan.rodrigo.dev@gmail.com">ivan.rodrigo.dev@gmail.com</a> •
     <samp/>
 </div>
