@@ -42,7 +42,9 @@ Fullstack Developer / Frontent Focused, specialized in high-performance React ap
   <img src="https://img.shields.io/badge/-expo-000?&logo=Expo&logoColor=white" alt="Expo"/>&nbsp;
 </div>
 
-
+<div>
+  <img src="https://img.shields.io/badge/-n8n-000?&logo=n8n&logoColor=white" alt="n8n"/>&nbsp;
+</div>
 <!--
 <div>
   <img src="https://img.shields.io/badge/-Astro-000?&logo=Astro" alt="Astro"/>&nbsp;
