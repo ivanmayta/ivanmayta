@@ -6,7 +6,44 @@ Fullstack Developer / Frontent Focused, specialized in high-performance React ap
   <a href="https://twitter.com/iversedev">twitter / 𝕏</a> ~ <code>@iversedev</code> •
   <a href="https://instagram.com/iverse.dev">Instagram</a> ~ <code>@iverse.dev</code> •
   <a href="mailto:ivan@iverse.dev">Email</a> ~ <code>ivan@iverse.dev</code>
+<div>
+  <img src="https://img.shields.io/badge/-Astro-000?&logo=Astro" alt="Astro"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Next.js-000?&logo=next.js" alt="Next.js"/>&nbsp;
+  <img src="https://img.shields.io/badge/-React-000?&logo=React" alt="React"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Tailwind-000?&logo=TailwindCss" alt="Tailwind"/>&nbsp;
+</div>
 
+<div>
+  <img src="https://img.shields.io/badge/-TypeScript-000?&logo=typescript" alt="TypeScript"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Node.js-000?&logo=node.js" alt="Node.js"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Express-000?&logo=express" alt="Express"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Python-000?&logo=python" alt="Python"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Django-000?&logo=django" alt="Django"/>&nbsp;
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/-Supabase-000?&logo=Supabase" alt="Supabase"/>&nbsp;
+  <img src="https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql&logoColor=white" alt="PostgreSQL"/>&nbsp;
+  <img src="https://img.shields.io/badge/-MySQL-000?&logo=mysql&logoColor=white" alt="MySQL"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Prisma-000?&logo=prisma&logoColor=white" alt="Prisma"/>&nbsp;
+
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05032" alt="Git"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Android_Studio-000?&logo=androidstudio&logoColor=3DDC84" alt="Android Studio"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Kotlin-000?&logo=kotlin&logoColor=7F52FF" alt="Kotlin"/>&nbsp;
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/-Strapi-000?&logo=strapi&logoColor=white" alt="Strapi"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Unity-000?&logo=Unity&logoColor=white" alt="Unity"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Clerk-000?&logo=Clerk&logoColor=white" alt="Clerk"/>&nbsp;
+  <img src="https://img.shields.io/badge/-expo-000?&logo=Expo&logoColor=white" alt="Expo"/>&nbsp;
+</div>
+
+
+<!--
 <div>
   <img src="https://img.shields.io/badge/-Astro-000?&logo=Astro" alt="Astro"/>&nbsp;
   <img src="https://img.shields.io/badge/-Next.js-000?&logo=next.js" alt="Next.js"/>&nbsp;
@@ -49,3 +86,4 @@ Fullstack Developer / Frontent Focused, specialized in high-performance React ap
   <img src="https://img.shields.io/badge/-Clerk-000?&logo=Clerk&logoColor=white" alt="Clerk"/>&nbsp;
   <img src="https://img.shields.io/badge/-expo-000?&logo=Expo&logoColor=white" alt="Expo"/>&nbsp;
 </div>
+ -->
