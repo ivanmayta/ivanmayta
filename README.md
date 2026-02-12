@@ -1,12 +1,11 @@
 <b>I'm Ivan Rodrigo</b> [<i>Software Engineer</i>]
 
 Fullstack Developer focused on frontend, specialized in high-performance React applications. Experience in collaborative work methodologies such as SCRUM. Knowledge in artificial intelligence (AI), business intelligence (BI), algorithms, data structures, mobile, desktop and video game development.
-- [website](https://iverse.dev) - `iverse.dev`
-- [twitter / 𝕏](https://twitter.com/iversedev) ~ `@iversedev`
-- [Instagram](https://instagram.com/iverse.dev) ~ `@iverse.dev`
-- [Email](mailto:ivan@iverse.dev) ~ `ivan@iverse.dev`
 
-<br>
+  <a href="https://iverse.dev">website</a> - <code>iverse.dev</code> •
+  <a href="https://twitter.com/iversedev">twitter / 𝕏</a> ~ <code>@iversedev</code> •
+  <a href="https://instagram.com/iverse.dev">Instagram</a> ~ <code>@iverse.dev</code> •
+  <a href="mailto:ivan@iverse.dev">Email</a> ~ <code>ivan@iverse.dev</code>
 
 <div>
   <img src="https://img.shields.io/badge/-Astro-000?&logo=Astro" alt="Astro"/>&nbsp;
