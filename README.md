@@ -35,7 +35,7 @@ Experience in collaborative work methodologies such as SCRUM. Knowledge in artif
 </div>
 
 <div>
-  <img src="https://img.shields.io/badge/-n8n-000?&logo=n8n&logoColor=white" alt="n8n"/>&nbsp;
+  <img src="https://img.shields.io/badge/-n8n-000?&logo=n8n&logoColor=red" alt="n8n"/>&nbsp;
   <img src="https://img.shields.io/badge/-Python-000?&logo=python" alt="Python"/>&nbsp;
   <img src="https://img.shields.io/badge/-Strapi-000?&logo=strapi&logoColor=white" alt="Strapi"/>&nbsp;
   <img src="https://img.shields.io/badge/-Clerk-000?&logo=Clerk&logoColor=white" alt="Clerk"/>&nbsp;
