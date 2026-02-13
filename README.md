@@ -1,6 +1,8 @@
 <b>I'm Ivan Rodrigo</b> [<i>Software Engineer</i>]
 
-Fullstack Developer / Frontent Focused, specialized in high-performance React applications. Experience in collaborative work methodologies such as SCRUM. Knowledge in artificial intelligence (AI), business intelligence (BI) and automations (n8n).
+Fullstack Developer / Frontent Focused, specialized in high-performance React applications. 
+
+Experience in collaborative work methodologies such as SCRUM. Knowledge in artificial intelligence (AI), business intelligence (BI) and automations (n8n).
 
   <a href="https://iverse.dev">website</a> - <code>iverse.dev</code> •
   <a href="https://twitter.com/iversedev">twitter / 𝕏</a> ~ <code>@iversedev</code> •
